@@ -7,6 +7,8 @@ This project is part of React Course https://scrimba.com/learn/learnreact
 
 This project is simple static page in React. 
 
+Update: Light/Dark mode
+
 
 ## Available Scripts
 
